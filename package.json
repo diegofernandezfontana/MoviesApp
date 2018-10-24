@@ -1,0 +1,21 @@
+{
+  "name": "moviesapp",
+  "version": "1.0.0",
+  "description": "movie omdb application",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegofernandezfontana/MoviesApp.git"
+  },
+  "author": "diegofernandezfontana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegofernandezfontana/MoviesApp/issues"
+  },
+  "homepage": "https://github.com/diegofernandezfontana/MoviesApp#readme"
+}
